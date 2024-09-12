@@ -214,8 +214,8 @@
             <mxPoint x="560" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WwOy-W65AdmmbrhSYN2I-66" value="关联ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="260" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="WwOy-W65AdmmbrhSYN2I-66" value="&lt;span style=&quot;color: rgb(255, 151, 33); font-size: 15px;&quot;&gt;关联&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="285" y="160" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="WwOy-W65AdmmbrhSYN2I-68" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1" source="WwOy-W65AdmmbrhSYN2I-9" target="WwOy-W65AdmmbrhSYN2I-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -339,6 +339,12 @@
             <mxPoint x="720" y="110" as="sourcePoint" />
             <mxPoint x="787" y="16" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="WwOy-W65AdmmbrhSYN2I-106" value="&lt;font color=&quot;#ff9721&quot; style=&quot;font-size: 15px;&quot;&gt;关联&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-100" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WwOy-W65AdmmbrhSYN2I-107" value="&lt;span style=&quot;color: rgb(255, 151, 33); font-size: 15px;&quot;&gt;关联&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="425" y="298" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
