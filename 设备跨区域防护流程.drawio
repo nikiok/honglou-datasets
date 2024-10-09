@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="OqKrrbX-1eM24BtWMJbo">
-    <mxGraphModel dx="1573" dy="2307" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="2085" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="900" pageHeight="1600" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -208,6 +208,12 @@
         </mxCell>
         <mxCell id="NCARSGtViYjDYFeuHxHZ-47" value="出厂成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="870" y="-185" width="72" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="NCARSGtViYjDYFeuHxHZ-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;防护措施：&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;1.通知分销商&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;2.通知厂家&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;3.通知用户&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="508" y="-377" width="152" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="NCARSGtViYjDYFeuHxHZ-75" value="&lt;p data-pm-slice=&quot;0 0 []&quot;&gt;{&lt;/p&gt;&lt;p&gt;&#39;Uuid&#39;,设备编号,&lt;br&gt;&lt;/p&gt;&lt;p&gt;&#39;Mac&#39;,物理地址,&lt;/p&gt;&lt;p&gt;&#39;DeviceType&#39;,设备类别, &lt;/p&gt;&lt;p&gt;&#39;DeviceBrand&#39;,设备品牌, &lt;/p&gt;&lt;p&gt;&#39;DeviceModel&#39;,设备型号, &lt;/p&gt;&lt;p&gt;&#39;Version&#39;,设备版本号, &lt;/p&gt;&lt;p&gt;&#39;status&#39;,设备状态, &lt;/p&gt;&lt;p&gt;&#39;region&#39;,分销区域, &lt;/p&gt;&lt;p&gt;&#39;agent_id&#39;,代理人, &lt;/p&gt;&lt;p&gt;&#39;factory_ip&#39;,出厂ip, &lt;/p&gt;&lt;p&gt;&#39;activated_ip&#39;,激活ip, &lt;/p&gt;&lt;p&gt;&#39;latest_ip&#39;,最近ip&lt;/p&gt;&lt;p&gt;}&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1005" y="-187.5" width="125" height="275" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
