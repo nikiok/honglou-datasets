@@ -207,7 +207,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="NCARSGtViYjDYFeuHxHZ-47" value="出厂成功" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="900" y="-187.5" width="72" height="35" as="geometry" />
+          <mxGeometry x="870" y="-185" width="72" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
