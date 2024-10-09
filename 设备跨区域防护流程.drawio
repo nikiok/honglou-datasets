@@ -56,7 +56,7 @@
           <mxGeometry x="437.5" y="440" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="96TmDrTL1l3ChU8e-Y0p-22" value="&lt;font face=&quot;Georgia&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;设备激活流程&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="270" y="170" width="200" height="30" as="geometry" />
+          <mxGeometry x="260" y="170" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="96TmDrTL1l3ChU8e-Y0p-23" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="90" y="-500" width="600" height="600" as="geometry" />
@@ -156,6 +156,21 @@
         </mxCell>
         <mxCell id="NCARSGtViYjDYFeuHxHZ-31" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;deviceId&quot;: &quot;设备唯一标识&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;currentIp&quot;: &quot;当前IP地址&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;region&quot;: &quot;当前区域&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;: &quot;正常/可疑&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="192.69" y="-105" width="179" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="NCARSGtViYjDYFeuHxHZ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NCARSGtViYjDYFeuHxHZ-32" target="NCARSGtViYjDYFeuHxHZ-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NCARSGtViYjDYFeuHxHZ-32" value="扫描条形码，准备出库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-1050" width="95" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="NCARSGtViYjDYFeuHxHZ-33" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/web_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="301.69" y="-1040" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="NCARSGtViYjDYFeuHxHZ-34" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Server&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="311.69" y="-950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NCARSGtViYjDYFeuHxHZ-36" value="建立连接" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-1050" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
