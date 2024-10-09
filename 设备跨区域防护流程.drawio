@@ -119,7 +119,7 @@
             <mxPoint x="130.00000000000006" y="-110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NCARSGtViYjDYFeuHxHZ-12" value="&lt;b&gt;返回ture/false&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="NCARSGtViYjDYFeuHxHZ-12" value="&lt;b&gt;返回data&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="-135" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="NCARSGtViYjDYFeuHxHZ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NCARSGtViYjDYFeuHxHZ-13" target="NCARSGtViYjDYFeuHxHZ-15">
@@ -154,8 +154,8 @@
         <mxCell id="NCARSGtViYjDYFeuHxHZ-26" value="&lt;font face=&quot;Georgia&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;设备出厂流程&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="280" y="-1090" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="NCARSGtViYjDYFeuHxHZ-30" value="&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;deviceId&quot;: &quot;设备唯一标识&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;currentIp&quot;: &quot;当前IP地址&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;region&quot;: &quot;当前区域&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;: &quot;正常/可疑&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_1;align=left;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="-70" width="150" height="100" as="geometry" />
+        <mxCell id="NCARSGtViYjDYFeuHxHZ-31" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;{&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;deviceId&quot;: &quot;设备唯一标识&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;currentIp&quot;: &quot;当前IP地址&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;region&quot;: &quot;当前区域&quot;,&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;status&quot;: &quot;正常/可疑&quot;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;}&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="192.69" y="-105" width="179" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
